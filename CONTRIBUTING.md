@@ -53,11 +53,16 @@ pytest --cov=laap
 
 ## Pull Request Process
 
-1. Update the README.md with details of changes if needed
-2. Update the CHANGELOG.md with any new features or fixes
-3. The PR will be merged once you have the sign-off of maintainers
+1. 在提交 Pull Request 之前，请先阅读并同意 [CLA.md](CLA.md)。
+2. 在首次 PR 中评论 `I have read and agree to the LAAP CLA.` 以完成签署。
+3. Update the README.md with details of changes if needed
+4. Update the CHANGELOG.md with any new features or fixes
+5. The PR will be merged once you have the sign-off of maintainers
 
-## Any contributions you make will be under the MIT Software License
+## 许可说明
+
+本仓库采用分层许可策略，详见 [LICENSING.md](LICENSING.md)。通过提交贡献，您同意项目维护者可将您的贡献用于社区版、商业版、论文及任何衍生作品，并在不同许可层级之间切换。
 
 When you submit code changes, your submissions are understood to be under the
-same [MIT License](LICENSE) that covers the project.
+layered licensing strategy described in [LICENSING.md](LICENSING.md). You must
+also agree to the [CLA.md](CLA.md) before your contribution can be merged.

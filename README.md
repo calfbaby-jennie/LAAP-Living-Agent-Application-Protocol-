@@ -415,12 +415,12 @@ LAAP 采用**分层许可策略**，详见 [LICENSING.md](LICENSING.md)。
 |---|---|---|---|
 | 论文/理论 | 架构论文、设计文档、科学插图 | CC BY-SA 4.0 | 理论成为公共知识，防止被私有化 |
 | 核心引擎 | `laap/` 核心 Python 包、`aris_brain/` 认知引擎 | **BSL 1.1** | 源码可见，非生产免费；生产使用需商业授权。2030-07-15 自动转 Apache 2.0 |
-| Python PSI fallback | `psi_core/` 纯 Python 实现 | Apache 2.0 | 完全开源，降低上手门槛 |
-| Rust PSI Core | `rust_core/` / `core/` 高性能原生引擎 | 商业授权 only | 闭源二进制，核心性能壁垒 |
+| Rust PSI Core | `core/` 高性能原生引擎 | 商业授权 only | 闭源二进制，核心性能壁垒 |
 | 企业功能 | 联邦学习、云同步、高级物种库、私有化部署 | 商业授权 only | 收入来源 |
 
-- 商业授权详情见 [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)（待创建）
-- 贡献者授权协议见 [CLA.md](CLA.md)（待创建）
+- 商业授权详情见 [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)
+- 贡献者授权协议见 [CLA.md](CLA.md)
+- 分层许可详情见 [LICENSING.md](LICENSING.md)
 - 参与贡献见 [CONTRIBUTING.md](CONTRIBUTING.md)
 - 商标：LAAP、Aris、Compiled AI 等标识归项目维护者所有，未经许可不得作为产品或服务品牌使用。
 
